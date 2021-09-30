@@ -4,8 +4,7 @@
 |------------|---------|
                                                       
                                                       
-|[Markdown Training] (https://www.markdowntutorial.com/) |  :heavy_check_mark: |
-
+[Markdown Training] (https://www.markdowntutorial.com/) 
 
 [Coursera Linux Basics] (https://training.github.com/downloads/github-git-cheat-sheet.pdf)   
 [Git Training 1] (https://lab.github.com)   
