@@ -15,3 +15,6 @@
 **Phase 2:** Intensive Open Source Tools training and basic design phase, each one of you will be tasked to work on a design based on his area of interest and work on enhancing the Open Source tool suite. You will work in groups in that phase. [ _Expected to span for 4 months_ ]  
 
 
+This repo is a follow up of my progress in the track ( each week for each study Material )
+
+:white_check_mark: Goals : Getting Hired 
