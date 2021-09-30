@@ -47,7 +47,6 @@
 |`$ git reset --hard [commit]` | Discards all history and changes back to the specified comm|
 
 
-_**CAUTION!**_ >Changing history can have nasty side effects. If you
-need to change commits that exist on GitHub (the remote),
-proceed with caution. If you need help, reach out at
+:warning:_**CAUTION!**_:warning: 
+>Changing history can have nasty side effects. If you need to change commits that exist on GitHub (the remote), proceed with caution. If you need help, reach out at
 github.community or contact support.
