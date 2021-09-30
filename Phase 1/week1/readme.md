@@ -1,9 +1,7 @@
 # Week 1 overview
 
 |Course Name | Progress|
-|------------|---------|
-                                                      
-                                                      
+|------------|---------|                                                                                   
 | [Markdown Training](https://www.markdowntutorial.com/) |:heavy_check_mark:|
 
 [Coursera Linux Basics](https://training.github.com/downloads/github-git-cheat-sheet.pdf)   
