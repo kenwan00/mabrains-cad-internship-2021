@@ -4,9 +4,9 @@
 |------------|---------|
                                                       
                                                       
-[Markdown Training] (https://www.markdowntutorial.com/) 
+| [Markdown Training](https://www.markdowntutorial.com/) |:heavy_check_mark:|
 
-[Coursera Linux Basics] (https://training.github.com/downloads/github-git-cheat-sheet.pdf)   
-[Git Training 1] (https://lab.github.com)   
-[Git Training 2] (https://www.coursera.org/learn/version-control-with-git?action=enroll)  
-[NDG Linux Unhatched] (https://www.netacad.com/courses/os-it/ndg-linux-unhatched)   
+[Coursera Linux Basics](https://training.github.com/downloads/github-git-cheat-sheet.pdf)   
+[Git Training 1](https://lab.github.com)   
+[Git Training 2](https://www.coursera.org/learn/version-control-with-git?action=enroll)  
+[NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)   
