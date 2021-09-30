@@ -30,7 +30,7 @@
 |`$ git pull` | Updates your current local working branch with all newcommits from the corresponding remote branch on GitHub. git pull is a combination of git fetch and git merge|
 
 
-# 5.Make changes
+## 5.Make changes
 | Command Line | Definition |
 |---- |---- |
 |`$ git log`| Lists version history for the current branch|
@@ -45,6 +45,8 @@
 |---- |---- |
 |`$ git reset [commit]` | Undoes all commits after [commit], preserving changes locall|
 |`$ git reset --hard [commit]` | Discards all history and changes back to the specified comm|
+
+
 
 
 :warning:_**CAUTION!**_:warning: 
