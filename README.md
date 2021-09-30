@@ -12,7 +12,7 @@
 
 **Phase 1:** General Linux, Git, Docker, Documentation, Introduction to Open Source Tools training. [_Deadline to finish all training and tasks by **October 25th**_]  
 
-**Phase 2:** Intensive Open Source Tools training and basic design phase, each one of you will be tasked to work on a design based on his area of interest and work on enhancing the Open Source tool suite. You will work in groups in that phase. [ _Expected to span for**4 months**_ ]  
+**Phase 2:** Intensive Open Source Tools training and basic design phase, each one of you will be tasked to work on a design based on his area of interest and work on enhancing the Open Source tool suite. You will work in groups in that phase. [ _Expected to span for **4 months**_ ]  
 
 
 This repo is a follow up of my progress in the track ( each week for each study Material )
