@@ -1,7 +1,7 @@
 # ** mabrains-cad-internship-2021**
 ##CAD/EDA Internship by Mabrians for Grads
 
-![](https://ibb.co/ZM9bWvV)
+![](<img src="https://i.ibb.co/LZKsnB8/74658853.png" alt="74658853" border="0">)
 
 
 ###_**The timeline of the internship is as follows:**_
