@@ -1,7 +1,7 @@
-#Week 1 overview
+# Week 1 overview
 
-                                                      |Course Name | Progress|
-                                                      |------------|---------|
+|Course Name | Progress|
+|------------|---------|
                                                       
                                                       
 |[Markdown Training] (https://www.markdowntutorial.com/) |  :heavy_check_mark: |
