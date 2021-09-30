@@ -8,7 +8,7 @@
 ![](https://i.ibb.co/LZKsnB8/74658853.png)
 
 
-### _**  The timeline of the internship is as follows: **_
+### _**The timeline of the internship is as follows:**_
 
 **Phase 1:** General Linux, Git, Docker, Documentation, Introduction to Open Source Tools training. [_Deadline to finish all training and tasks by October 25th_]  
 
