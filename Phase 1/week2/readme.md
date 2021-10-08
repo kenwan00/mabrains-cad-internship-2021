@@ -1,4 +1,4 @@
-**Week 2 progress board
+##Week 2 progress board
 
 |Course Name | Progress|
 |------------|---------| 
