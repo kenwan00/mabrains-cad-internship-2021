@@ -7,3 +7,5 @@
 |[Git Training 1](https://lab.github.com) |:heavy_check_mark:|
 |[Git Training 2](https://www.coursera.org/learn/version-control-with-git?action=enroll)  |:heavy_check_mark:|
 |[NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)|:heavy_check_mark:|
+
+this week matrial has been finished by the __8th of oct. __ due to internet disconnection for full three days
