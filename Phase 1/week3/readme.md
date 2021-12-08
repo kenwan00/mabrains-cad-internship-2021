@@ -1,1 +1,1 @@
-# Scripting []( https://www.learnshell.org/ )
+# Scripting [here]( https://www.learnshell.org/ )
